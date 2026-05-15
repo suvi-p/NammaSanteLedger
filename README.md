@@ -1,4 +1,4 @@
-# NammaSanteLedger — Digital Khata App
+# NammaSantheLedger — Digital Khata App
 
 > **Course:** Android App Development Using Gen AI &nbsp;|&nbsp; **Project No:** 56 &nbsp;|&nbsp; **Intern:** Puneetha G
 
@@ -8,7 +8,7 @@
 
 Small vendors at weekly rural markets (Santhe) in Karnataka manage customer credit using paper notebooks that are easily lost, damaged, or incorrect. They forget who owes them money, cannot quickly total outstanding dues, and have no way to send payment reminders — leading to regular financial losses.
 
-**NammaSanteLedger** replaces the paper khata with a fast, offline Android app. Adding a credit transaction takes under 5 seconds. The home screen shows total outstanding dues at a glance.
+**NammaSantheLedger** replaces the paper khata with a fast, offline Android app. Adding a credit transaction takes under 5 seconds. The home screen shows total outstanding dues at a glance.
 
 ---
 
