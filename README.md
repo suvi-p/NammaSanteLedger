@@ -119,7 +119,7 @@ NammaSanteLedger/
 ### Clone and Run
 
 ```bash
-# 1. Clone the repository
+# 1. Clone the repository, use command prompt or android studio terminal
 git clone https://github.com/suvi-p/NammaSanteLedger.git
 
 # 2. Open in Android Studio
