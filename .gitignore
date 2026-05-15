@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# App output
+*.apk
+*.aab
+
+# Generated files
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+
+# Mac system
+.DS_Store
+
+# Windows system
+Thumbs.db
