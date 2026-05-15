@@ -216,7 +216,7 @@ lifecycleViewmodelCompose = "2.8.6"
 - **Total Lines of Code:** ~4,000
 
 ---
-## Screen Shots
+
 
 
 *"Namma Santhe" means "Our Market" in Kannada. This app moves the weekly rural market economy from paper to pixels.*
